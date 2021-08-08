@@ -1,0 +1,32 @@
+body{
+margin:0;
+background-color: black;
+color: whitesmoke;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.top-container{
+    text-align: center;
+    padding-top: 100px;
+    
+}
+.top-subcontainer{
+    position:relative;
+    left:530px;
+    bottom:400px;
+}
+.top-pic{
+    border-radius: 50%;
+}
+.middle-container{
+    text-align: center; 
+}
+.bottom-container{
+  text-align: center;
+}
+.instagram{
+    margin:5px;
+}
+.footer-link{
+
+}
